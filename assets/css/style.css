@@ -1,0 +1,162 @@
+body {
+    box-sizing: border-box;
+  }
+
+header{
+    background-image: url('../imgs/medium-shot-woman-holding-ukranian-flag1.png');
+    background-repeat: no-repeat; 
+    background-size:contain;
+    background-position: right;  
+    height: auto;
+  }
+
+.header-menu{
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-around;
+}
+
+.header-menu-child .logo{
+    margin-right: 626px;
+}
+
+.title{
+  padding-left: 131px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 93px;
+  line-height: 94.9%;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #9AD2DE;
+  }
+  
+header .header-menu-child a{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 96.9%;
+  text-decoration: none;
+  margin-right: 57px;
+  color: #000000;  
+}
+
+.title-bottom{
+  padding-left: 131px;
+  margin-bottom: 125px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  color: #000000;
+}
+
+header h3{
+  margin-top: 124px;
+}
+
+.logo{
+  padding-left:131px;
+}
+.menu-header{
+    padding-top: 20px;
+}
+.header-side{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+}
+.main-parent-horisontal{
+  display: flex;
+  margin-bottom: 20px;
+  justify-content: space-around;
+  background: #F1FDFF;
+}
+
+.main-title{
+  text-align: center;
+}
+
+.main-title h1{
+ 
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 120%;
+letter-spacing: -0.02em;
+text-transform: uppercase;
+color: #000000;
+}
+
+.first_p{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 120%;
+color: #000000;
+
+}
+
+.last_elem{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+  color: #73A6B1;
+}
+
+.scene-win{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 120%;
+margin-top: 0;
+/* or 55px */
+
+letter-spacing: -0.02em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.box-left h5{
+  font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 120%;
+/* identical to box height, or 24px */
+
+
+color: #000000;
+
+}
+
+.box-left h4{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 120%;
+color: #000000;
+}
+
+.main-step{
+  width: 100px;
+}
+
+
+
+
